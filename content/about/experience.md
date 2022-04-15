@@ -26,7 +26,7 @@ experience:
   - title: R&D Manager, Software
     company: Gotion Inc
     company_url: 'https://www.gotion.com/'
-    company_logo: Gotion-Logo
+    company_logo: gotion-logo
     location: California
     date_start: '2018-01-01'
     # date_end: ''

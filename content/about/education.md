@@ -25,14 +25,11 @@ experience:
   - title: Ph.D. Engineering
     company: Texas A&M University
     company_url: ''
-    company_logo: 
+    company_logo: TAM-LogoBox
     location: Texas
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+    date_start: '2012-09-09'
+    date_end: '2016-12-01'
+    # description:
 
 design:
   columns: '1'
