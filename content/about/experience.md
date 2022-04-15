@@ -26,7 +26,7 @@ experience:
   - title: R&D Manager, Software
     company: Gotion Inc
     company_url: 'https://www.gotion.com/'
-    # company_logo: org-x
+    company_logo: Gotion-Logo
     location: California
     date_start: '2018-01-01'
     # date_end: ''
@@ -41,7 +41,7 @@ experience:
   - title: Software Engineer
     company: Rockwell Automation
     company_url: 'https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley/motion-control.html'
-    # company_logo: org-x
+    company_logo: rockwell-automation-icon
     location: California
     date_start: '2017-01-01'
     date_end: '2018-05-01'
