@@ -41,7 +41,7 @@ experience:
   - title: Software Engineer
     company: Rockwell Automation
     company_url: 'https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley/motion-control.html'
-    company_logo: org-x
+    # company_logo: org-x
     location: California
     date_start: '2017-01-01'
     date_end: '2018-05-01'
@@ -50,8 +50,8 @@ experience:
   - title: Energy Storage Researcher
     company: Texas A&M University
     company_url: ''
-    company_logo: org-x
-    location: California
+    company_logo: TAM-LogoBox
+    location: Texas
     date_start: '2012-09-09'
     date_end: '2016-12-01'
     description: |2-
