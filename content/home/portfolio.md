@@ -14,7 +14,7 @@ title: 'Recent Projects'
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  # page_type: project
   # Folders to display content from
   filters:
     folders:

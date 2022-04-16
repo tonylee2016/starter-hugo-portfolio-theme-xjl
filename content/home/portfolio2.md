@@ -14,7 +14,7 @@ title: 'Past Projects'
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  # page_type: project
 
   filters:
     # Folders to display content from
