@@ -4,6 +4,7 @@ summary: We developed a high accuracy battery state of health estimation method 
 tags:
   - Battery
   - Data
+  - RC
 date: 2022-01-01
 external_link: https://drive.google.com/file/d/1iFKW09WggwxLgT3gsPkt36drBebv4Pmh/view?usp=sharing
 ---

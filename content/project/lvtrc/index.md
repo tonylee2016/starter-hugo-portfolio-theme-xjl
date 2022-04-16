@@ -5,5 +5,5 @@ tags:
   - ML
   - Data
 date: 2022-01-01
-external_link: https://docs.google.com/presentation/d/1GG-fLHVEO2A7u-R6Sk1ZyNFhOBF5NJqOaeakoTVylsI/edit?usp=sharing
+external_link: https://docs.google.com/presentation/d/1GG-fLHVEO2A7u-R6Sk1ZyNFhOBF5NJqOaeakoTVylsI/present?slide=id.gbb6d243c58_0_7
 ---

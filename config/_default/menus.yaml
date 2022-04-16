@@ -10,9 +10,9 @@ main:
   - name: About me
     url: about/
     weight: 20
-  - name: Publications
-    url: publications/
-    weight: 20
   - name: What's new
     url: update/
+    weight: 20
+  - name: Publications
+    url: publications/
     weight: 20
