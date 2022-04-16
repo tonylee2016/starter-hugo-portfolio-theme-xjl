@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: TAM-LogoBox
     location: Texas
-    date_start: '2012-09-09'
-    date_end: '2016-12-01'
+    date_start: ''
+    date_end: ''
     # description:
 
 design:

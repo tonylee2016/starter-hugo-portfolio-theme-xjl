@@ -27,9 +27,26 @@ item:
     date_start: '2021-01-01'
     description: ''
     organization: Gotion Inc
-    organization_url: https://www.gotion.com
+    # organization_url: https://www.gotion.com
     title: Technical Innovation Award
     url: ''
+
+  - certificate_url: http://bcert.me/snbsuhlym
+    date_start: '2019-08-01'
+    description: ''
+    organization: TÜV SÜD
+    # organization_url: https://www.gotion.com
+    title: Certified Functional Safety Engineer
+    url: ''
+
+  - certificate_url:
+    date_start: '2018-12-01'
+    description: ''
+    organization: Mathworks
+    # organization_url: https://www.gotion.com
+    title: Embedded Coder for Production CodeGeneration
+    url: ''
+
 
 design:
   columns: '1'
