@@ -19,7 +19,7 @@ content:
   filters:
     # Folders to display content from
     folders:
-      - project/past
+      - project/past/
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
