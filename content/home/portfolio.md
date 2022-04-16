@@ -31,9 +31,11 @@ content:
     - name: Machine Learning
       tag: ML
     - name: Data Platform
-      tag: DP
+      tag: Data
     - name: Battery Management
       tag: BMS
+    - name: Energy
+      tag: EN
 
 design:
   columns: '1'
