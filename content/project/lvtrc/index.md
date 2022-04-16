@@ -1,6 +1,6 @@
 ---
 title: Data Acquisition Solution
-summary: LVTRC is a LabVIEW based data acquisition system, with a complete software and hardware solution. The project is sponsored by [TURBO RESEARCH CONSORTIUM](https://turbolab.tamu.edu/trc/). Notable features includes temporal-frequency signal analysis, ML-based machinery diagnosis etc.
+summary: LVTRC is a LabVIEW based data acquisition system, with a complete software and hardware solution. The project is sponsored by [Turbomachinery Research Consortium](https://turbolab.tamu.edu/trc/). Notable features includes temporal-frequency signal analysis, ML-based machinery diagnosis etc.
 tags:
   - ML
   - Data

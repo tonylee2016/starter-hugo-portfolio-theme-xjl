@@ -1,6 +1,6 @@
 ---
 title: Data Platform for battery
-summary: We have developed a data platform for battery data monitor, analyzing and machine learning alogrithm.  
+summary: We have developed a data platform for battery data monitor, analyzing and machine learning.  
 tags:
   - Battery
   - Data

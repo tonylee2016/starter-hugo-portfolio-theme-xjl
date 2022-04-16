@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Energy Storage Flywheel
+summary: A energy storage flywheel with doubled energy density (100 Kwh, 140k cycles). See the flywheel being magleved !
 tags:
-  - NLP
+  - ES
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://drive.google.com/file/d/1arWcvqSG2--hXstRJdqni0k3WRe73Sqp/view
 ---

@@ -1,6 +1,6 @@
 ---
 title: Battery Thermal Anomaly Warning
-summary: A new data-driven method to detect battery thermal anomaly based on comparing shape-similarity between thermal measurements. This method is robust to data loss and requires minimal reference data for different pack configurations. Initial results show it also can detect unforeseen anomalies at the early stage.
+summary: A new data-driven method to detect battery thermal anomaly based on comparing shape-similarity between thermal measurements. This method is robust to data loss, pack configurations and battery aging. It also can detect unforeseen anomalies at the early stage.
 tags:
   - ML
   - Battery

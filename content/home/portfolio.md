@@ -30,12 +30,12 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Data Platform
+    - name: Data
       tag: Data
-    - name: Battery Management
-      tag: BMS
-    - name: Energy
-      tag: EN
+    - name: Battery
+      tag: BA
+    - name: Energy Storage
+      tag: ES
 
 design:
   columns: '1'
