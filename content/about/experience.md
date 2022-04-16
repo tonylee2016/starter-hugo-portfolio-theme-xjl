@@ -28,13 +28,13 @@ experience:
     company_url: 'https://www.gotion.com/'
     company_logo: gotion-logo
     location: California
-    date_start: '2018-01-01'
+    date_start: '2018-06-01'
     # date_end: ''
     description: |2-
         Responsibilities:
         
         * Define road map and lead software development for ASIL-C BMS
-        * Grow the team by 5X, lead 10 engineers globally
+        * Grow the team by 5X, lead a global team of 10 engineer (software and data)
         * Lead the cloud AI algorithm development for EV and ESS battery
         * Manage battery life cycle and performance test, data acquisition
 
@@ -42,7 +42,7 @@ experience:
     company: Rockwell Automation
     company_url: 'https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley/motion-control.html'
     company_logo: rockwell-automation-icon
-    location: California
+    # location: California
     date_start: '2017-01-01'
     date_end: '2018-05-01'
     description: Develop software for a new generation motion control product
