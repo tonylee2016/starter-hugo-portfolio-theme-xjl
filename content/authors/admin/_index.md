@@ -10,9 +10,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:tonylee2016@gmail.com
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
