@@ -10,12 +10,15 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 'Recent Projects'
-subtitle: 'Recent Projects'
+title: 'Past Projects'
 
 content:
   # Page type to display. E.g. project.
   page_type: project
+
+  # Folders to display content from
+  folders:
+    - project/past
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
