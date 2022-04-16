@@ -16,8 +16,9 @@ content:
   # Page type to display. E.g. project.
   page_type: project
   # Folders to display content from
-  folders:
-    - project/recent
+  filters:
+    folders:
+      - project/recent
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -37,8 +38,6 @@ content:
       tag: Data
     - name: Battery
       tag: Battery
-    - name: Energy Storage
-      tag: ES
 
 design:
   columns: '1'
