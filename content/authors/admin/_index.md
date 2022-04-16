@@ -10,9 +10,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:tonylee2016@gmail.com
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=dZuhxckAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
 ---
 
 Xiaojun 'Tony' Li is the Software R&D Manager at Gotion Inc. in California, where he is responsible for control and machine learning algorithms for electric vehicle and energy storage system batteries. He has over ten years of research and development experience in energy storage systems, ranging from lithium-ion batteries to energy storage flywheels. 
