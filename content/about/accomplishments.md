@@ -31,6 +31,38 @@ item:
     title: Technical Innovation Award
     url: ''
 
+  - certificate_url: https://www.linkedin.com/learning/certificates/f93bd3b51ff60d6996fb375030068c8610f21282a29efbcf256e357d470dd979?trk=share_certificate
+    date_start: '2022-01-01'
+    description: ''
+    organization: Linkedin Learning
+    # organization_url: https://www.gotion.com
+    title: Hadoop
+    url: ''
+
+  - certificate_url: 
+    date_start: '2022-01-01'
+    description: ''
+    organization: Linkedin Learning
+    # organization_url: https://www.gotion.com
+    title: Microservices
+    url: ''
+
+  - certificate_url: http://bcert.me/snbsuhlym
+    date_start: '2020-01-01'
+    description: ''
+    organization: Scrum Alliance
+    # organization_url: https://www.gotion.com
+    title: Scrum Master
+    url: ''
+
+  - certificate_url: 
+    date_start: '2019-12-01'
+    description: ''
+    organization: Gotion Inc
+    # organization_url: https://www.gotion.com
+    title: Employee of the year
+    url: ''
+
   - certificate_url: http://bcert.me/snbsuhlym
     date_start: '2019-08-01'
     description: ''
