@@ -33,7 +33,7 @@ content:
     - name: Data
       tag: Data
     - name: Battery
-      tag: BA
+      tag: Battery
     - name: Energy Storage
       tag: ES
 

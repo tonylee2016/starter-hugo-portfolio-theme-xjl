@@ -31,6 +31,16 @@ experience:
     date_end: '2016-12-01'
     # description:
 
+experience:
+  - title: MSc. Robotics and AI
+    company: South China University of Technology
+    company_url: ''
+    # company_logo: TAM-LogoBox
+    location: Guangzhou
+    date_start: '2010-09-09'
+    date_end: '2012-05-01'
+    # description:
+
 design:
   columns: '1'
 ---

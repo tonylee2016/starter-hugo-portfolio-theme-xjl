@@ -55,7 +55,8 @@ experience:
     date_start: '2012-09-09'
     date_end: '2016-12-01'
     description: |2-
-        * Design & develop of a 100KWh, 140K cycle kinetics battery prototype. One of the largest in the world. Project received over $1M fund
+        * Design & develop of a 100KWh, 140K cycle kinetics battery prototype. 
+        * One of the largest in the world. Project received over $1M fund
         * Build data acquisition, diagnostics system for turbo-machineries
 
 design:
