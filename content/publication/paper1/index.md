@@ -29,7 +29,7 @@ publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+# publication_short: In *ICW*
 
 abstract: A Battery Cloud or cloud battery management system leverages the cloud computational power and data storage to improve battery safety, performance, and economy. This work will present the Battery Cloud that collects measured battery data from electric vehicles and energy storage systems. Advanced algorithms are applied to improve battery performance. Using remote vehicle data, we train and validate an artificial neural network to estimate pack SOC during vehicle charging. The strategy is then tested on vehicles. Furthermore, high accuracy and onboard battery state of health estimation methods for electric vehicles are developed based on the differential voltage (DVA) and incremental capacity analysis (ICA). Using cycling data from battery cells at various temperatures, we extract the charging cycles and calculate the DVA and ICA curves, from which multiple features are extracted, analyzed, and eventually used to estimate the state of health. For battery safety, a data-driven thermal anomaly detection method is developed. The method can detect unforeseen anomalies such as thermal runaways at the very early stage. With the further development of the internet of things, more and more battery data will be available. Potential applications of battery cloud also include areas such as battery manufacture, recycling, and electric vehicle battery swap.
 
