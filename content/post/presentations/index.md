@@ -5,7 +5,7 @@ draft: false
 featured: false
 image:
   filename: image.png
-  focal_point: LEFT
+  focal_point: RIGHT
   preview_only: false
 ---
 
