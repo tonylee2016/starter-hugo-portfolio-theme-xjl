@@ -1,4 +1,11 @@
 ---
+publication_types:
+  - "6"
+authors:
+  - Xiaojun Li
+  - David Jauernig
+  - Mengzhu Gao
+  - Trevor Jones
 abstract: A Battery Cloud or cloud battery management system leverages the cloud
   computational power and data storage to improve battery safety, performance,
   and economy. This work will present the Battery Cloud that collects measured
@@ -18,34 +25,28 @@ abstract: A Battery Cloud or cloud battery management system leverages the cloud
   data will be available. Potential applications of battery cloud also include
   areas such as battery manufacture, recycling, and electric vehicle battery
   swap.
+draft: true
 url_pdf: ""
-publication_types:
-  - "6"
-authors:
-  - Xiaojun Li
-  - David Jauernig
-  - Mengzhu Gao
-  - Trevor Jones
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
+title: Battery Cloud with Advanced Algorithms
+doi: ""
 publication: In book
 featured: false
-date: 2022-02-01T00:00:00.000Z
-url_slides: ""
-title: Battery Cloud with Advanced Algorithms
-tags: []
-projects:
-  - Data Platform for battery
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
+date: 2022-02-01T00:00:00.000Z
+url_slides: ""
+tags: []
+projects:
+  - Data Platform for battery
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: ""
 ---
 
 <!-- {{% callout note %}}
