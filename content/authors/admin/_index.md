@@ -27,7 +27,7 @@ social:
     link: https://github.com/tonylee2016
 education:
   courses:
-    - course: PhD in Control and Energy Storage
+    - course: PhD in Engineering
       institution: Texas A&M University
     - course: MSc in Robotics and AI
       institution: South China University of Technology
