@@ -39,7 +39,7 @@ item:
     title: Hadoop
     url: ''
 
-  - certificate_url: 
+  - certificate_url: https://www.linkedin.com/learning/certificates/aa3955b805934eb7462c1ca7ff1b029a2fa09736e48164c1a669b6972889f6fb
     date_start: '2022-01-01'
     description: ''
     organization: Linkedin Learning
