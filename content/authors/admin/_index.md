@@ -36,6 +36,6 @@ superuser: true
 #   icon: ☕️
 ---
 
-Xiaojun 'Tony' Li is the Software R&D Manager at Gotion Inc. in California, where he is responsible for control and machine learning algorithms for electric vehicle and energy storage system batteries. He has over 10 years of research and development experience in energy storage systems, ranging from lithium-ion batteries to energy storage flywheels. He has authored or coauthored more than ten technical articles and has five issued and pending patents.
+As a software R&D manager at Gotion Inc, I am responsible for control and machine learning algorithms for electric vehicle and energy storage system batteries. I have over 10 years of research and development experience in energy storage systems, ranging from lithium-ion batteries to energy storage flywheels. I have authored or coauthored more than ten technical articles and has five issued and pending patents.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
