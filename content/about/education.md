@@ -21,6 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
   - title: Ph.D. Engineering
     company: Texas A&M University
@@ -30,8 +31,6 @@ experience:
     date_start: '2012-09-09'
     date_end: '2016-12-01'
     # description:
-
-experience:
   - title: MSc. Robotics and AI
     company: South China University of Technology
     company_url: ''
