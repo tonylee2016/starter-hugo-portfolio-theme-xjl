@@ -32,15 +32,17 @@ url_source: ""
 url_video: ""
 publication: In book
 featured: false
-date: 2022-02-01T00:00:00Z
+date: 2022-02-01T00:00:00.000Z
 url_slides: ""
 title: Battery Cloud with Advanced Algorithms
 tags: []
+projects:
+  - Data Platform for battery
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
