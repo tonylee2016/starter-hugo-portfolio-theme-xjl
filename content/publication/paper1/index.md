@@ -25,7 +25,7 @@ abstract: A Battery Cloud or cloud battery management system leverages the cloud
   data will be available. Potential applications of battery cloud also include
   areas such as battery manufacture, recycling, and electric vehicle battery
   swap.
-draft: true
+draft: false
 url_pdf: ""
 url_dataset: ""
 url_project: ""
@@ -39,7 +39,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2022-02-01T00:00:00.000Z
+date: 2022-03-30T23:00:00.000Z
 url_slides: ""
 tags: []
 projects:
