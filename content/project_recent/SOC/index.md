@@ -1,6 +1,6 @@
 ---
 title: Battery SOC Estimation (Onboard)
-summary: Using battery cell charging data stored in [Gotion’s](https://www.gotion.com/) cloud data platform, we train and validate a neural network to estimate pack state of charge (SOC) during vehicle charging. Onboard vehicle testings show promising results (< 3%).  
+summary: A neural network to estimate pack state of charge (SOC) during charging, deployed on a embedded controller. Onboard vehicle testings show promising results (< 3%).  
 tags:
   - ML
   - Battery
