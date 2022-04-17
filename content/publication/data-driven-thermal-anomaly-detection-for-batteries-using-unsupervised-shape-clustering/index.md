@@ -2,7 +2,7 @@
 title: Data-driven Thermal Anomaly Detection for Batteries using Unsupervised
   Shape Clustering
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Xiaojun Li
   - Jianwei Li
