@@ -7,6 +7,7 @@ authors:
   - Xiaojun LI
   - Alan Palazzolo
 doi: 10.1016/j.est.2021.103576
+publication: Journal of Energy Storage
 draft: false
 featured: false
 image:
