@@ -12,6 +12,11 @@ social:
     link: mailto:tonylee2016@gmail.com
   - display:
       header: false
+    icon_pack: fab
+    icon: linkedin
+    link: https://www.linkedin.com/in/tonyxjl/
+  - display:
+      header: false
     link: https://scholar.google.com/citations?user=dZuhxckAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
