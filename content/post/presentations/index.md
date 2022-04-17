@@ -2,7 +2,7 @@
 title: New Presentations
 date: 2022-04-02T03:45:19.669Z
 draft: false
-featured: true
+featured: false
 image:
   filename: image.png
   focal_point: Smart
