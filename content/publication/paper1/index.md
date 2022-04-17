@@ -36,7 +36,7 @@ doi: ""
 publication: In book
 featured: false
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  # caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
 date: 2022-03-30T23:00:00.000Z
