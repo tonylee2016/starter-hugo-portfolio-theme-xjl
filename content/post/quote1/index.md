@@ -1,6 +1,6 @@
 ---
 title: Quote
-date: 2022-02-06T04:51:34.918Z
+date: 2021-02-06T04:51:34.918Z
 draft: false
 featured: false
 image:

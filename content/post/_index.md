@@ -1,5 +1,6 @@
 ---
-title: Latest News
+title: What's up
+cms_exclude: true
 
 # Listing view
 view: compact
