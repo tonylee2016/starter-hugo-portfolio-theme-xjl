@@ -33,7 +33,7 @@ url_source: ""
 url_video: ""
 title: Battery Cloud with Advanced Algorithms
 doi: ""
-publication: In book
+publication: IoT Enabled Multi-Energy Systems, From Isolated Energy Grids to Modern Interconnected Energy Networks
 featured: false
 image:
   # caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
